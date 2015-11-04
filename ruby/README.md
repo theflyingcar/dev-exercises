@@ -8,4 +8,4 @@ Choose 2 of the 3 exercises listed below from Exercism.io:
 
 Include your code for each exercise in this folder. You don't need to include the test file, just your solution.
 
-_Note: you will need to create an Exercism.io account_
+_NOTE: You will need to create an Exercism.io account_
