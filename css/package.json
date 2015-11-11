@@ -1,0 +1,21 @@
+{
+  "name": "css-exercise",
+  "version": "0.0.1",
+  "description": "CSS exercise.",
+  "scripts": {
+    "start": "http-server ./src -d false"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/HealthTeacher/dev-exercises.git"
+  },
+  "author": "GoNoodle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HealthTeacher/dev-exercises/issues"
+  },
+  "homepage": "https://github.com/HealthTeacher/dev-exercises#readme",
+  "devDependencies": {
+    "http-server": "^0.8.5"
+  }
+}
