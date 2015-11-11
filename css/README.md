@@ -3,7 +3,7 @@
 ### Objective
 Build a web page that renders the Tile component outlined below.
 
-### Instructions
+### Requirements
 - Fork this repository and submit your finished work as pull request.
 - Your submission should include a rendered example of the Tile component.
 - Treat your final deliverable as if it were to be deployed to production.
@@ -31,4 +31,4 @@ Feel free to add any additional infrastructure that you would like, as long as t
 - Used to represent a single piece of video content.
 - Displays a thumbnail, title, duration, and category.
 - Used in a variety of layouts (e.g. – standalone, within a responsive grid, etc), and should be built to handle that flexibility.
-- Includes [interactions](./resource/tile-interactions.gif) for favoriting and viewing additional, similar content. Interactions can be found here: `./resources/tile-interactions.gif`
+- Includes [interactions](./resources/tile-interactions.gif) for favoriting and viewing additional, similar content. Interactions can be found here: `./resources/tile-interactions.gif`
