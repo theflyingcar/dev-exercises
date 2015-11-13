@@ -32,4 +32,5 @@ Feel free to add any additional infrastructure that you would like, as long as t
 - Used to represent a single piece of video content.
 - Displays a thumbnail, title, duration, and category.
 - Used in a variety of layouts (e.g. – standalone, within a responsive grid, etc), and should be built to handle that flexibility.
+- It is recommended you utilize the Museo Sans type face, which is [available on Typekit](https://typekit.com/fonts/museo-sans) with a free account.
 - Includes [interactions](./resources/mockup-interactions.gif) for favoriting and viewing additional, similar content. Interactions can be found here: `./resources/mockup-interactions.gif`
