@@ -1,0 +1,38 @@
+/* CSS DOCUMENT */
+
+body {
+	background: #f5f5f5;
+}
+
+
+.vidbox {
+	background: #fff;
+	border-radius: 5px;
+	box-shadow: 0 4px 1px #ddd;
+}
+.vidbox-thumbnail {
+	overflow: hidden;
+	padding: 10px 10px 0;
+}
+.vibbox-info {
+	display: block;
+	clear: both;
+	overflow: hidden;
+	padding: 10px; 
+}
+.vidbox-title {
+	float: left;	
+}
+.vidbox-duration {
+	float: right;	
+}
+.vidbox-category {
+	border-top: 1px solid #eee;
+	clear: both;
+	overflow: hidden;
+	display: block;
+	padding: 10px; 
+}
+.vidbox-category:hover {
+	cursor: pointer;
+}
