@@ -1,6 +1,6 @@
 var Words = require('./word-count');
 
-describe('count()', function() {
+xdescribe('count()', function() {
   var words = new Words();
 
   it('counts one word', function() {
